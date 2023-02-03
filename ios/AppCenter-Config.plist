@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   AppCenter-Config.plist
+   CI_CD_ReactNative
+
+   Created by Eduardo on 02/02/23.
+   Copyright (c) 2023 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<plist version="1.0">
+  <dict>
+      <key>AppSecret</key>
+      <string>3befbddc-7131-4b18-8a5c-db01ebc3570e</string>
+  </dict>
+</plist>
